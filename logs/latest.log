@@ -1,26 +1,16 @@
-[07:30:08] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
-	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
-	at zg$1.run(SourceFile:95) [server.jar:?]
-[07:30:08] [Server thread/INFO]: Stopping server
-[07:30:08] [Server thread/INFO]: Saving players
-[07:30:08] [Server thread/INFO]: Saving worlds
-[07:30:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:30:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:30:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07:30:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:30:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07:30:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:30:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:30:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:30:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:22:01] [Server thread/INFO]: Remy0806[/138.75.129.62:57828] logged in with entity id 1229595 at (-257.286904385487, 70.5, -677.1487355463194)
+[03:22:01] [Server thread/INFO]: Remy0806 joined the game
+[03:24:31] [Server thread/INFO]: Remy0806 lost connection: Disconnected
+[03:24:31] [Server thread/INFO]: Remy0806 left the game
+[03:24:39] [Server thread/INFO]: Stopping server
+[03:24:39] [Server thread/INFO]: Saving players
+[03:24:39] [Server thread/INFO]: Saving worlds
+[03:24:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:24:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:24:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:24:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:24:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:24:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:24:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:24:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:24:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
