@@ -354,6 +354,8 @@
       "cooked_beef": "2021-05-09 17:12:17 +0800",
       "baked_potato": "2021-05-09 18:28:10 +0800",
       "potato": "2021-05-08 16:50:10 +0800",
+      "bread": "2021-05-13 16:26:39 +0800",
+      "rotten_flesh": "2021-05-13 17:05:37 +0800",
       "cooked_chicken": "2021-01-12 18:45:39 +0800"
     },
     "done": false
@@ -532,6 +534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-05-14 21:59:00 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2021-01-12 18:58:55 +0800"
@@ -643,6 +651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2021-05-14 22:00:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2021-01-12 18:52:46 +0800"
@@ -742,6 +756,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2021-05-09 17:58:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2021-05-14 21:59:00 +0800"
     },
     "done": true
   },
@@ -891,7 +911,8 @@
       "minecraft:creeper": "2021-01-15 00:48:29 +0800",
       "minecraft:enderman": "2021-01-15 00:47:34 +0800",
       "minecraft:zombie": "2021-01-12 19:20:31 +0800",
-      "minecraft:drowned": "2021-01-15 01:07:22 +0800"
+      "minecraft:drowned": "2021-01-15 01:07:22 +0800",
+      "minecraft:zombie_villager": "2021-05-13 16:31:36 +0800"
     },
     "done": false
   },
@@ -1045,6 +1066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2021-05-14 21:59:00 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-01-12 16:44:50 +0800"
@@ -1072,6 +1099,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2021-01-12 22:18:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2021-05-14 21:59:00 +0800"
     },
     "done": true
   },
@@ -1375,6 +1408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-05-14 21:59:00 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2021-01-12 18:49:10 +0800"
@@ -1453,6 +1492,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2021-05-14 21:59:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-05-14 21:59:00 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-01-12 16:55:27 +0800"
@@ -1501,6 +1552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2021-05-14 21:59:00 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2021-01-12 16:51:59 +0800"
@@ -1544,6 +1601,7 @@
       "minecraft:taiga": "2021-01-12 16:46:23 +0800",
       "minecraft:giant_tree_taiga": "2021-01-12 16:50:32 +0800",
       "minecraft:snowy_tundra": "2021-05-08 18:07:29 +0800",
+      "minecraft:taiga_hills": "2021-05-13 16:00:28 +0800",
       "minecraft:frozen_river": "2021-05-08 18:07:36 +0800",
       "minecraft:snowy_beach": "2021-05-08 18:11:09 +0800",
       "minecraft:deep_lukewarm_ocean": "2021-05-08 18:11:27 +0800",
@@ -1608,6 +1666,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2021-01-12 18:49:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2021-05-14 21:59:00 +0800"
     },
     "done": true
   },
